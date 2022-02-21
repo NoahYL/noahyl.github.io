@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "信贷模型风控知识点-技术篇"
+title:  "111"
 date:   2022-02-21 21:03:36 +0530
-categories: 风控模型
+categories: 222
 ---
 
 ## ***前言***
